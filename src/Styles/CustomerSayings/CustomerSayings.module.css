@@ -1,0 +1,26 @@
+.CusSayMain{
+    height: 569px;
+    background-color:#FCF8FF;
+}
+
+.headerCont{
+    display: 'flex';
+}
+
+.headerContText{
+    font-size: 44px;
+}
+.bodyCon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bname{
+    font-size: 24px;
+}
+.bprof{
+    font-size: 18px;
+}
+.bdet{
+    font-size: 16px;
+}
