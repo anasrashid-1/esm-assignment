@@ -1,7 +1,7 @@
 # App Documentation
 
 ## Introduction
-This React app is designed to showcase a simple UI with a title, a button, and a background image that is responsive across all screen sizes.
+This React app is designed to showcase a simple Landing Page.
 
 
 
